@@ -4,7 +4,7 @@ $$
 \mathcal{N}(x; \mu, \sigma) = \frac{1}{\sqrt{2\pi\sigma^2}}\exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right)
 $$
 
-$N$ 個の観測データからなるサンプル $\mathcal{D} = \{x^(1), x^(2), \ldots, x^(N)\}$ が与えられたとする。このときの尤度は
+$N$ 個の観測データからなるサンプル $\mathcal{D} = \{x^{(1)}, x^{(2)}, \ldots, x^{(N)}\}$ が与えられたとする。このときの尤度は
 
 $$
 \begin{aligned}
